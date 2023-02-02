@@ -10,3 +10,38 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.base {
+    width: 10px;
+    background-color: black;
+    height: 100px;  
+}
+
+.box {
+    width: 250px;
+    background-color: black;
+    height: 630px;
+    border-radius: 10px;
+}
+
+.light {
+    height: 190px;
+    border-radius:50%;
+    width: 190px;
+}
+
+.red {
+    background-color: red;
+}
+
+.green {
+    background-color: green;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+.selected {
+    box-shadow: 0px 0px 100px white;
+
+}
