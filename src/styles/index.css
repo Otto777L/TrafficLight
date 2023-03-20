@@ -13,13 +13,20 @@
 .base {
     width: 10px;
     background-color: black;
-    height: 75px;  
+    height: 65px;  
 }
 
 .box {
     width: 250px;
     background-color: black;
     height: 630px;
+    border-radius: 10px;
+}
+
+.box-purple {
+    width: 250px;
+    background-color: black;
+    height: 830px;
     border-radius: 10px;
 }
 
