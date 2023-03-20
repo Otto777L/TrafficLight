@@ -13,7 +13,7 @@
 .base {
     width: 10px;
     background-color: black;
-    height: 100px;  
+    height: 75px;  
 }
 
 .box {
@@ -39,6 +39,10 @@
 
 .yellow {
     background-color: yellow;
+}
+
+.purple {
+    background-color: purple;
 }
 
 .selected {
